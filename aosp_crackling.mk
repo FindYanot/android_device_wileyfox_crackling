@@ -23,7 +23,7 @@ $(call inherit-product, device/wileyfox/crackling/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := crackling
-PRODUCT_NAME := full_crackling
+PRODUCT_NAME := aosp_crackling
 PRODUCT_BRAND := wileyfox
 PRODUCT_MODEL := CRACKLING
 PRODUCT_MANUFACTURER := wileyfox
